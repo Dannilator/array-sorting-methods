@@ -1,0 +1,22 @@
+body {
+  background-color: grey;
+}
+
+div {
+  width: 33.33px;
+  height: 10px;
+  position: relative;
+  background-color: white;
+  display: inline-block;
+  opacity: 0;
+}
+
+#box {
+  opacity: 100%;
+  background-color: black;
+  width: 1050px;
+  height: 480px;
+  position: fixed;
+  border: solid 2px yellowgreen;
+  margin-left: -5px;
+}
